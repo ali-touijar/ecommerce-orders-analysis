@@ -1,0 +1,6 @@
+===== SALES REPORT =====
+
+total orders: 44
+Total revenue: 77980 DH
+Revenue in Fes: 33340 DH
+Average order value: 1772.2727272727273 DH
